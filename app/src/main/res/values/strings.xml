@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SensorSelect</string>
+
+    <string name="home_text_composit">Composit</string>
+    <string name="home_text_start">Start</string>
+    <string name="tv_text_etting">Setting</string>
+    <string name="home_text_right">R</string>
+    <string name="home_text_left">L</string>
+    <string name="home_text_sensor_select">Sensor Select</string>
+    <string name="connected">Connected</string>
+
+    <string name="scan_title_left">L Sensor</string>
+    <string name="scan_title_right">R Sensor</string>
+
+    <string name="dialog_message_scan">Send</string>
+    <string name="dialog_message_click_fail">Xin hãy click vào checkbox để kết nối với device</string>
+    <string name="dialog_message_setting_same">Giá trị không được thay đổi</string>
+    <string name="dialog_message_disconnect_device">Disconnect Device</string>
+
+    <string name="sensor_setting_title">Sensor Setting</string>
+    <string name="sensor_setting_accel">Accel</string>
+    <string name="sensor_setting_gyro">Gyro</string>
+    <string name="sensor_setting_pressure">Pressure</string>
+    <string name="led_setting_title">LED Setting</string>
+    <string name="led_setting_ch4">ch4</string>
+    <string name="led_setting_ch3">ch3</string>
+    <string name="led_setting_ch2">ch2</string>
+
+    <string name="led_setting_off">OFF</string>
+    <string name="led_setting_on">ON</string>
+    <string name="led_setting_pulse_a">Pulse A</string>
+    <string name="led_setting_pulse_b">Pulse B</string>
+
+    <string-array name="arr_led_setting">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>Pulse A</item>
+        <item>Pulse B</item>
+    </string-array>
+
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+</resources>
